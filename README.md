@@ -4,7 +4,7 @@
 
 This engaging web application is designed to help users discover new cocktails by entering a cocktail name and retrieving relevant information such as the cocktail's name, a photo, and mixing instructions. Users can enter different cocktail names, including multi-word names like "moscow mule," and the application will provide a random variant of the cocktail if multiple exist.
 
-**Link to project:** TBD
+**Link to project:** https://which-cocktail.netlify.app/
 
 ## How It's Made:
 
